@@ -29,19 +29,38 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
-            this.radioButton7 = new System.Windows.Forms.RadioButton();
-            this.radioButton8 = new System.Windows.Forms.RadioButton();
-            this.radioButton9 = new System.Windows.Forms.RadioButton();
             this.radioButton10 = new System.Windows.Forms.RadioButton();
             this.radioButton11 = new System.Windows.Forms.RadioButton();
             this.radioButton12 = new System.Windows.Forms.RadioButton();
+            this.radioButton7 = new System.Windows.Forms.RadioButton();
+            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.radioButton9 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.radioButton5 = new System.Windows.Forms.RadioButton();
+            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.radioButton37 = new System.Windows.Forms.RadioButton();
+            this.radioButton38 = new System.Windows.Forms.RadioButton();
+            this.radioButton39 = new System.Windows.Forms.RadioButton();
+            this.radioButton40 = new System.Windows.Forms.RadioButton();
+            this.radioButton41 = new System.Windows.Forms.RadioButton();
+            this.radioButton42 = new System.Windows.Forms.RadioButton();
+            this.radioButton43 = new System.Windows.Forms.RadioButton();
+            this.radioButton36 = new System.Windows.Forms.RadioButton();
+            this.radioButton35 = new System.Windows.Forms.RadioButton();
+            this.radioButton30 = new System.Windows.Forms.RadioButton();
+            this.radioButton31 = new System.Windows.Forms.RadioButton();
+            this.radioButton32 = new System.Windows.Forms.RadioButton();
+            this.radioButton33 = new System.Windows.Forms.RadioButton();
+            this.radioButton34 = new System.Windows.Forms.RadioButton();
+            this.radioButton25 = new System.Windows.Forms.RadioButton();
+            this.radioButton26 = new System.Windows.Forms.RadioButton();
+            this.radioButton27 = new System.Windows.Forms.RadioButton();
+            this.radioButton28 = new System.Windows.Forms.RadioButton();
+            this.radioButton29 = new System.Windows.Forms.RadioButton();
             this.radioButton13 = new System.Windows.Forms.RadioButton();
             this.radioButton14 = new System.Windows.Forms.RadioButton();
             this.radioButton15 = new System.Windows.Forms.RadioButton();
@@ -54,25 +73,6 @@
             this.radioButton22 = new System.Windows.Forms.RadioButton();
             this.radioButton23 = new System.Windows.Forms.RadioButton();
             this.radioButton24 = new System.Windows.Forms.RadioButton();
-            this.radioButton25 = new System.Windows.Forms.RadioButton();
-            this.radioButton26 = new System.Windows.Forms.RadioButton();
-            this.radioButton27 = new System.Windows.Forms.RadioButton();
-            this.radioButton28 = new System.Windows.Forms.RadioButton();
-            this.radioButton29 = new System.Windows.Forms.RadioButton();
-            this.radioButton30 = new System.Windows.Forms.RadioButton();
-            this.radioButton31 = new System.Windows.Forms.RadioButton();
-            this.radioButton32 = new System.Windows.Forms.RadioButton();
-            this.radioButton33 = new System.Windows.Forms.RadioButton();
-            this.radioButton34 = new System.Windows.Forms.RadioButton();
-            this.radioButton35 = new System.Windows.Forms.RadioButton();
-            this.radioButton36 = new System.Windows.Forms.RadioButton();
-            this.radioButton37 = new System.Windows.Forms.RadioButton();
-            this.radioButton38 = new System.Windows.Forms.RadioButton();
-            this.radioButton39 = new System.Windows.Forms.RadioButton();
-            this.radioButton40 = new System.Windows.Forms.RadioButton();
-            this.radioButton41 = new System.Windows.Forms.RadioButton();
-            this.radioButton42 = new System.Windows.Forms.RadioButton();
-            this.radioButton43 = new System.Windows.Forms.RadioButton();
             this.final = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -99,71 +99,38 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "태어난 달";
             // 
-            // radioButton1
+            // radioButton10
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(12, 32);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(41, 16);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "1월";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton10.AutoSize = true;
+            this.radioButton10.Location = new System.Drawing.Point(12, 397);
+            this.radioButton10.Name = "radioButton10";
+            this.radioButton10.Size = new System.Drawing.Size(47, 16);
+            this.radioButton10.TabIndex = 11;
+            this.radioButton10.TabStop = true;
+            this.radioButton10.Text = "12월";
+            this.radioButton10.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // radioButton11
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(12, 66);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(41, 16);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "2월";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton11.AutoSize = true;
+            this.radioButton11.Location = new System.Drawing.Point(12, 365);
+            this.radioButton11.Name = "radioButton11";
+            this.radioButton11.Size = new System.Drawing.Size(47, 16);
+            this.radioButton11.TabIndex = 10;
+            this.radioButton11.TabStop = true;
+            this.radioButton11.Text = "11월";
+            this.radioButton11.UseVisualStyleBackColor = true;
             // 
-            // radioButton3
+            // radioButton12
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(12, 98);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(41, 16);
-            this.radioButton3.TabIndex = 2;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "3월";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            // 
-            // radioButton4
-            // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(12, 201);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(41, 16);
-            this.radioButton4.TabIndex = 5;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "6월";
-            this.radioButton4.UseVisualStyleBackColor = true;
-            // 
-            // radioButton5
-            // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(12, 164);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(41, 16);
-            this.radioButton5.TabIndex = 4;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "5월";
-            this.radioButton5.UseVisualStyleBackColor = true;
-            // 
-            // radioButton6
-            // 
-            this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(12, 132);
-            this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(41, 16);
-            this.radioButton6.TabIndex = 3;
-            this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "4월";
-            this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton12.AutoSize = true;
+            this.radioButton12.Location = new System.Drawing.Point(12, 331);
+            this.radioButton12.Name = "radioButton12";
+            this.radioButton12.Size = new System.Drawing.Size(47, 16);
+            this.radioButton12.TabIndex = 9;
+            this.radioButton12.TabStop = true;
+            this.radioButton12.Text = "10월";
+            this.radioButton12.UseVisualStyleBackColor = true;
             // 
             // radioButton7
             // 
@@ -198,41 +165,71 @@
             this.radioButton9.Text = "7월";
             this.radioButton9.UseVisualStyleBackColor = true;
             // 
-            // radioButton10
+            // radioButton4
             // 
-            this.radioButton10.AutoSize = true;
-            this.radioButton10.Location = new System.Drawing.Point(12, 397);
-            this.radioButton10.Name = "radioButton10";
-            this.radioButton10.Size = new System.Drawing.Size(47, 16);
-            this.radioButton10.TabIndex = 11;
-            this.radioButton10.TabStop = true;
-            this.radioButton10.Text = "12월";
-            this.radioButton10.UseVisualStyleBackColor = true;
-            this.radioButton10.CheckedChanged += new System.EventHandler(this.RadioButton10_CheckedChanged);
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(12, 201);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(41, 16);
+            this.radioButton4.TabIndex = 5;
+            this.radioButton4.TabStop = true;
+            this.radioButton4.Text = "6월";
+            this.radioButton4.UseVisualStyleBackColor = true;
             // 
-            // radioButton11
+            // radioButton5
             // 
-            this.radioButton11.AutoSize = true;
-            this.radioButton11.Location = new System.Drawing.Point(12, 365);
-            this.radioButton11.Name = "radioButton11";
-            this.radioButton11.Size = new System.Drawing.Size(47, 16);
-            this.radioButton11.TabIndex = 10;
-            this.radioButton11.TabStop = true;
-            this.radioButton11.Text = "11월";
-            this.radioButton11.UseVisualStyleBackColor = true;
-            this.radioButton11.CheckedChanged += new System.EventHandler(this.RadioButton11_CheckedChanged);
+            this.radioButton5.AutoSize = true;
+            this.radioButton5.Location = new System.Drawing.Point(12, 164);
+            this.radioButton5.Name = "radioButton5";
+            this.radioButton5.Size = new System.Drawing.Size(41, 16);
+            this.radioButton5.TabIndex = 4;
+            this.radioButton5.TabStop = true;
+            this.radioButton5.Text = "5월";
+            this.radioButton5.UseVisualStyleBackColor = true;
             // 
-            // radioButton12
+            // radioButton6
             // 
-            this.radioButton12.AutoSize = true;
-            this.radioButton12.Location = new System.Drawing.Point(12, 331);
-            this.radioButton12.Name = "radioButton12";
-            this.radioButton12.Size = new System.Drawing.Size(47, 16);
-            this.radioButton12.TabIndex = 9;
-            this.radioButton12.TabStop = true;
-            this.radioButton12.Text = "10월";
-            this.radioButton12.UseVisualStyleBackColor = true;
-            this.radioButton12.CheckedChanged += new System.EventHandler(this.RadioButton12_CheckedChanged);
+            this.radioButton6.AutoSize = true;
+            this.radioButton6.Location = new System.Drawing.Point(12, 132);
+            this.radioButton6.Name = "radioButton6";
+            this.radioButton6.Size = new System.Drawing.Size(41, 16);
+            this.radioButton6.TabIndex = 3;
+            this.radioButton6.TabStop = true;
+            this.radioButton6.Text = "4월";
+            this.radioButton6.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(12, 98);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(41, 16);
+            this.radioButton3.TabIndex = 2;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "3월";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(12, 66);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(41, 16);
+            this.radioButton2.TabIndex = 1;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "2월";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(12, 32);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(41, 16);
+            this.radioButton1.TabIndex = 0;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "1월";
+            this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
@@ -273,6 +270,215 @@
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "태어난 날짜";
+            // 
+            // radioButton37
+            // 
+            this.radioButton37.AutoSize = true;
+            this.radioButton37.Location = new System.Drawing.Point(185, 235);
+            this.radioButton37.Name = "radioButton37";
+            this.radioButton37.Size = new System.Drawing.Size(47, 16);
+            this.radioButton37.TabIndex = 30;
+            this.radioButton37.TabStop = true;
+            this.radioButton37.Text = "31일";
+            this.radioButton37.UseVisualStyleBackColor = true;
+            // 
+            // radioButton38
+            // 
+            this.radioButton38.AutoSize = true;
+            this.radioButton38.Location = new System.Drawing.Point(185, 201);
+            this.radioButton38.Name = "radioButton38";
+            this.radioButton38.Size = new System.Drawing.Size(47, 16);
+            this.radioButton38.TabIndex = 29;
+            this.radioButton38.TabStop = true;
+            this.radioButton38.Text = "30일";
+            this.radioButton38.UseVisualStyleBackColor = true;
+            // 
+            // radioButton39
+            // 
+            this.radioButton39.AutoSize = true;
+            this.radioButton39.Location = new System.Drawing.Point(185, 164);
+            this.radioButton39.Name = "radioButton39";
+            this.radioButton39.Size = new System.Drawing.Size(47, 16);
+            this.radioButton39.TabIndex = 28;
+            this.radioButton39.TabStop = true;
+            this.radioButton39.Text = "29일";
+            this.radioButton39.UseVisualStyleBackColor = true;
+            // 
+            // radioButton40
+            // 
+            this.radioButton40.AutoSize = true;
+            this.radioButton40.Location = new System.Drawing.Point(185, 132);
+            this.radioButton40.Name = "radioButton40";
+            this.radioButton40.Size = new System.Drawing.Size(47, 16);
+            this.radioButton40.TabIndex = 27;
+            this.radioButton40.TabStop = true;
+            this.radioButton40.Text = "28일";
+            this.radioButton40.UseVisualStyleBackColor = true;
+            // 
+            // radioButton41
+            // 
+            this.radioButton41.AutoSize = true;
+            this.radioButton41.Location = new System.Drawing.Point(185, 98);
+            this.radioButton41.Name = "radioButton41";
+            this.radioButton41.Size = new System.Drawing.Size(47, 16);
+            this.radioButton41.TabIndex = 26;
+            this.radioButton41.TabStop = true;
+            this.radioButton41.Text = "27일";
+            this.radioButton41.UseVisualStyleBackColor = true;
+            // 
+            // radioButton42
+            // 
+            this.radioButton42.AutoSize = true;
+            this.radioButton42.Location = new System.Drawing.Point(185, 66);
+            this.radioButton42.Name = "radioButton42";
+            this.radioButton42.Size = new System.Drawing.Size(47, 16);
+            this.radioButton42.TabIndex = 25;
+            this.radioButton42.TabStop = true;
+            this.radioButton42.Text = "26일";
+            this.radioButton42.UseVisualStyleBackColor = true;
+            // 
+            // radioButton43
+            // 
+            this.radioButton43.AutoSize = true;
+            this.radioButton43.Location = new System.Drawing.Point(185, 32);
+            this.radioButton43.Name = "radioButton43";
+            this.radioButton43.Size = new System.Drawing.Size(47, 16);
+            this.radioButton43.TabIndex = 24;
+            this.radioButton43.TabStop = true;
+            this.radioButton43.Text = "25일";
+            this.radioButton43.UseVisualStyleBackColor = true;
+            // 
+            // radioButton36
+            // 
+            this.radioButton36.AutoSize = true;
+            this.radioButton36.Location = new System.Drawing.Point(98, 397);
+            this.radioButton36.Name = "radioButton36";
+            this.radioButton36.Size = new System.Drawing.Size(47, 16);
+            this.radioButton36.TabIndex = 23;
+            this.radioButton36.TabStop = true;
+            this.radioButton36.Text = "24일";
+            this.radioButton36.UseVisualStyleBackColor = true;
+            // 
+            // radioButton35
+            // 
+            this.radioButton35.AutoSize = true;
+            this.radioButton35.Location = new System.Drawing.Point(98, 365);
+            this.radioButton35.Name = "radioButton35";
+            this.radioButton35.Size = new System.Drawing.Size(47, 16);
+            this.radioButton35.TabIndex = 22;
+            this.radioButton35.TabStop = true;
+            this.radioButton35.Text = "23일";
+            this.radioButton35.UseVisualStyleBackColor = true;
+            // 
+            // radioButton30
+            // 
+            this.radioButton30.AutoSize = true;
+            this.radioButton30.Location = new System.Drawing.Point(98, 333);
+            this.radioButton30.Name = "radioButton30";
+            this.radioButton30.Size = new System.Drawing.Size(47, 16);
+            this.radioButton30.TabIndex = 21;
+            this.radioButton30.TabStop = true;
+            this.radioButton30.Text = "22일";
+            this.radioButton30.UseVisualStyleBackColor = true;
+            // 
+            // radioButton31
+            // 
+            this.radioButton31.AutoSize = true;
+            this.radioButton31.Location = new System.Drawing.Point(98, 301);
+            this.radioButton31.Name = "radioButton31";
+            this.radioButton31.Size = new System.Drawing.Size(47, 16);
+            this.radioButton31.TabIndex = 20;
+            this.radioButton31.TabStop = true;
+            this.radioButton31.Text = "21일";
+            this.radioButton31.UseVisualStyleBackColor = true;
+            // 
+            // radioButton32
+            // 
+            this.radioButton32.AutoSize = true;
+            this.radioButton32.Location = new System.Drawing.Point(98, 267);
+            this.radioButton32.Name = "radioButton32";
+            this.radioButton32.Size = new System.Drawing.Size(47, 16);
+            this.radioButton32.TabIndex = 19;
+            this.radioButton32.TabStop = true;
+            this.radioButton32.Text = "20일";
+            this.radioButton32.UseVisualStyleBackColor = true;
+            // 
+            // radioButton33
+            // 
+            this.radioButton33.AutoSize = true;
+            this.radioButton33.Location = new System.Drawing.Point(98, 235);
+            this.radioButton33.Name = "radioButton33";
+            this.radioButton33.Size = new System.Drawing.Size(47, 16);
+            this.radioButton33.TabIndex = 18;
+            this.radioButton33.TabStop = true;
+            this.radioButton33.Text = "19일";
+            this.radioButton33.UseVisualStyleBackColor = true;
+            // 
+            // radioButton34
+            // 
+            this.radioButton34.AutoSize = true;
+            this.radioButton34.Location = new System.Drawing.Point(98, 201);
+            this.radioButton34.Name = "radioButton34";
+            this.radioButton34.Size = new System.Drawing.Size(47, 16);
+            this.radioButton34.TabIndex = 17;
+            this.radioButton34.TabStop = true;
+            this.radioButton34.Text = "18일";
+            this.radioButton34.UseVisualStyleBackColor = true;
+            // 
+            // radioButton25
+            // 
+            this.radioButton25.AutoSize = true;
+            this.radioButton25.Location = new System.Drawing.Point(98, 164);
+            this.radioButton25.Name = "radioButton25";
+            this.radioButton25.Size = new System.Drawing.Size(47, 16);
+            this.radioButton25.TabIndex = 16;
+            this.radioButton25.TabStop = true;
+            this.radioButton25.Text = "17일";
+            this.radioButton25.UseVisualStyleBackColor = true;
+            // 
+            // radioButton26
+            // 
+            this.radioButton26.AutoSize = true;
+            this.radioButton26.Location = new System.Drawing.Point(98, 132);
+            this.radioButton26.Name = "radioButton26";
+            this.radioButton26.Size = new System.Drawing.Size(47, 16);
+            this.radioButton26.TabIndex = 15;
+            this.radioButton26.TabStop = true;
+            this.radioButton26.Text = "16일";
+            this.radioButton26.UseVisualStyleBackColor = true;
+            // 
+            // radioButton27
+            // 
+            this.radioButton27.AutoSize = true;
+            this.radioButton27.Location = new System.Drawing.Point(98, 98);
+            this.radioButton27.Name = "radioButton27";
+            this.radioButton27.Size = new System.Drawing.Size(47, 16);
+            this.radioButton27.TabIndex = 14;
+            this.radioButton27.TabStop = true;
+            this.radioButton27.Text = "15일";
+            this.radioButton27.UseVisualStyleBackColor = true;
+            // 
+            // radioButton28
+            // 
+            this.radioButton28.AutoSize = true;
+            this.radioButton28.Location = new System.Drawing.Point(98, 66);
+            this.radioButton28.Name = "radioButton28";
+            this.radioButton28.Size = new System.Drawing.Size(47, 16);
+            this.radioButton28.TabIndex = 13;
+            this.radioButton28.TabStop = true;
+            this.radioButton28.Text = "14일";
+            this.radioButton28.UseVisualStyleBackColor = true;
+            // 
+            // radioButton29
+            // 
+            this.radioButton29.AutoSize = true;
+            this.radioButton29.Location = new System.Drawing.Point(98, 32);
+            this.radioButton29.Name = "radioButton29";
+            this.radioButton29.Size = new System.Drawing.Size(47, 16);
+            this.radioButton29.TabIndex = 12;
+            this.radioButton29.TabStop = true;
+            this.radioButton29.Text = "13일";
+            this.radioButton29.UseVisualStyleBackColor = true;
             // 
             // radioButton13
             // 
@@ -406,224 +612,6 @@
             this.radioButton24.Text = "1일";
             this.radioButton24.UseVisualStyleBackColor = true;
             // 
-            // radioButton25
-            // 
-            this.radioButton25.AutoSize = true;
-            this.radioButton25.Location = new System.Drawing.Point(98, 164);
-            this.radioButton25.Name = "radioButton25";
-            this.radioButton25.Size = new System.Drawing.Size(47, 16);
-            this.radioButton25.TabIndex = 16;
-            this.radioButton25.TabStop = true;
-            this.radioButton25.Text = "17일";
-            this.radioButton25.UseVisualStyleBackColor = true;
-            // 
-            // radioButton26
-            // 
-            this.radioButton26.AutoSize = true;
-            this.radioButton26.Location = new System.Drawing.Point(98, 132);
-            this.radioButton26.Name = "radioButton26";
-            this.radioButton26.Size = new System.Drawing.Size(47, 16);
-            this.radioButton26.TabIndex = 15;
-            this.radioButton26.TabStop = true;
-            this.radioButton26.Text = "16일";
-            this.radioButton26.UseVisualStyleBackColor = true;
-            // 
-            // radioButton27
-            // 
-            this.radioButton27.AutoSize = true;
-            this.radioButton27.Location = new System.Drawing.Point(98, 98);
-            this.radioButton27.Name = "radioButton27";
-            this.radioButton27.Size = new System.Drawing.Size(47, 16);
-            this.radioButton27.TabIndex = 14;
-            this.radioButton27.TabStop = true;
-            this.radioButton27.Text = "15일";
-            this.radioButton27.UseVisualStyleBackColor = true;
-            // 
-            // radioButton28
-            // 
-            this.radioButton28.AutoSize = true;
-            this.radioButton28.Location = new System.Drawing.Point(98, 66);
-            this.radioButton28.Name = "radioButton28";
-            this.radioButton28.Size = new System.Drawing.Size(47, 16);
-            this.radioButton28.TabIndex = 13;
-            this.radioButton28.TabStop = true;
-            this.radioButton28.Text = "14일";
-            this.radioButton28.UseVisualStyleBackColor = true;
-            // 
-            // radioButton29
-            // 
-            this.radioButton29.AutoSize = true;
-            this.radioButton29.Location = new System.Drawing.Point(98, 32);
-            this.radioButton29.Name = "radioButton29";
-            this.radioButton29.Size = new System.Drawing.Size(47, 16);
-            this.radioButton29.TabIndex = 12;
-            this.radioButton29.TabStop = true;
-            this.radioButton29.Text = "13일";
-            this.radioButton29.UseVisualStyleBackColor = true;
-            this.radioButton29.CheckedChanged += new System.EventHandler(this.RadioButton29_CheckedChanged);
-            // 
-            // radioButton30
-            // 
-            this.radioButton30.AutoSize = true;
-            this.radioButton30.Location = new System.Drawing.Point(98, 333);
-            this.radioButton30.Name = "radioButton30";
-            this.radioButton30.Size = new System.Drawing.Size(47, 16);
-            this.radioButton30.TabIndex = 21;
-            this.radioButton30.TabStop = true;
-            this.radioButton30.Text = "22일";
-            this.radioButton30.UseVisualStyleBackColor = true;
-            // 
-            // radioButton31
-            // 
-            this.radioButton31.AutoSize = true;
-            this.radioButton31.Location = new System.Drawing.Point(98, 301);
-            this.radioButton31.Name = "radioButton31";
-            this.radioButton31.Size = new System.Drawing.Size(47, 16);
-            this.radioButton31.TabIndex = 20;
-            this.radioButton31.TabStop = true;
-            this.radioButton31.Text = "21일";
-            this.radioButton31.UseVisualStyleBackColor = true;
-            // 
-            // radioButton32
-            // 
-            this.radioButton32.AutoSize = true;
-            this.radioButton32.Location = new System.Drawing.Point(98, 267);
-            this.radioButton32.Name = "radioButton32";
-            this.radioButton32.Size = new System.Drawing.Size(47, 16);
-            this.radioButton32.TabIndex = 19;
-            this.radioButton32.TabStop = true;
-            this.radioButton32.Text = "20일";
-            this.radioButton32.UseVisualStyleBackColor = true;
-            // 
-            // radioButton33
-            // 
-            this.radioButton33.AutoSize = true;
-            this.radioButton33.Location = new System.Drawing.Point(98, 235);
-            this.radioButton33.Name = "radioButton33";
-            this.radioButton33.Size = new System.Drawing.Size(47, 16);
-            this.radioButton33.TabIndex = 18;
-            this.radioButton33.TabStop = true;
-            this.radioButton33.Text = "19일";
-            this.radioButton33.UseVisualStyleBackColor = true;
-            // 
-            // radioButton34
-            // 
-            this.radioButton34.AutoSize = true;
-            this.radioButton34.Location = new System.Drawing.Point(98, 201);
-            this.radioButton34.Name = "radioButton34";
-            this.radioButton34.Size = new System.Drawing.Size(47, 16);
-            this.radioButton34.TabIndex = 17;
-            this.radioButton34.TabStop = true;
-            this.radioButton34.Text = "18일";
-            this.radioButton34.UseVisualStyleBackColor = true;
-            // 
-            // radioButton35
-            // 
-            this.radioButton35.AutoSize = true;
-            this.radioButton35.Location = new System.Drawing.Point(98, 365);
-            this.radioButton35.Name = "radioButton35";
-            this.radioButton35.Size = new System.Drawing.Size(47, 16);
-            this.radioButton35.TabIndex = 22;
-            this.radioButton35.TabStop = true;
-            this.radioButton35.Text = "23일";
-            this.radioButton35.UseVisualStyleBackColor = true;
-            this.radioButton35.CheckedChanged += new System.EventHandler(this.RadioButton35_CheckedChanged);
-            // 
-            // radioButton36
-            // 
-            this.radioButton36.AutoSize = true;
-            this.radioButton36.Location = new System.Drawing.Point(98, 397);
-            this.radioButton36.Name = "radioButton36";
-            this.radioButton36.Size = new System.Drawing.Size(47, 16);
-            this.radioButton36.TabIndex = 23;
-            this.radioButton36.TabStop = true;
-            this.radioButton36.Text = "24일";
-            this.radioButton36.UseVisualStyleBackColor = true;
-            // 
-            // radioButton37
-            // 
-            this.radioButton37.AutoSize = true;
-            this.radioButton37.Location = new System.Drawing.Point(185, 235);
-            this.radioButton37.Name = "radioButton37";
-            this.radioButton37.Size = new System.Drawing.Size(47, 16);
-            this.radioButton37.TabIndex = 30;
-            this.radioButton37.TabStop = true;
-            this.radioButton37.Text = "31일";
-            this.radioButton37.UseVisualStyleBackColor = true;
-            this.radioButton37.CheckedChanged += new System.EventHandler(this.RadioButton37_CheckedChanged);
-            // 
-            // radioButton38
-            // 
-            this.radioButton38.AutoSize = true;
-            this.radioButton38.Location = new System.Drawing.Point(185, 201);
-            this.radioButton38.Name = "radioButton38";
-            this.radioButton38.Size = new System.Drawing.Size(47, 16);
-            this.radioButton38.TabIndex = 29;
-            this.radioButton38.TabStop = true;
-            this.radioButton38.Text = "30일";
-            this.radioButton38.UseVisualStyleBackColor = true;
-            this.radioButton38.CheckedChanged += new System.EventHandler(this.RadioButton38_CheckedChanged);
-            // 
-            // radioButton39
-            // 
-            this.radioButton39.AutoSize = true;
-            this.radioButton39.Location = new System.Drawing.Point(185, 164);
-            this.radioButton39.Name = "radioButton39";
-            this.radioButton39.Size = new System.Drawing.Size(47, 16);
-            this.radioButton39.TabIndex = 28;
-            this.radioButton39.TabStop = true;
-            this.radioButton39.Text = "29일";
-            this.radioButton39.UseVisualStyleBackColor = true;
-            this.radioButton39.CheckedChanged += new System.EventHandler(this.RadioButton39_CheckedChanged);
-            // 
-            // radioButton40
-            // 
-            this.radioButton40.AutoSize = true;
-            this.radioButton40.Location = new System.Drawing.Point(185, 132);
-            this.radioButton40.Name = "radioButton40";
-            this.radioButton40.Size = new System.Drawing.Size(47, 16);
-            this.radioButton40.TabIndex = 27;
-            this.radioButton40.TabStop = true;
-            this.radioButton40.Text = "28일";
-            this.radioButton40.UseVisualStyleBackColor = true;
-            this.radioButton40.CheckedChanged += new System.EventHandler(this.RadioButton40_CheckedChanged);
-            // 
-            // radioButton41
-            // 
-            this.radioButton41.AutoSize = true;
-            this.radioButton41.Location = new System.Drawing.Point(185, 98);
-            this.radioButton41.Name = "radioButton41";
-            this.radioButton41.Size = new System.Drawing.Size(47, 16);
-            this.radioButton41.TabIndex = 26;
-            this.radioButton41.TabStop = true;
-            this.radioButton41.Text = "27일";
-            this.radioButton41.UseVisualStyleBackColor = true;
-            this.radioButton41.CheckedChanged += new System.EventHandler(this.RadioButton41_CheckedChanged);
-            // 
-            // radioButton42
-            // 
-            this.radioButton42.AutoSize = true;
-            this.radioButton42.Location = new System.Drawing.Point(185, 66);
-            this.radioButton42.Name = "radioButton42";
-            this.radioButton42.Size = new System.Drawing.Size(47, 16);
-            this.radioButton42.TabIndex = 25;
-            this.radioButton42.TabStop = true;
-            this.radioButton42.Text = "26일";
-            this.radioButton42.UseVisualStyleBackColor = true;
-            this.radioButton42.CheckedChanged += new System.EventHandler(this.RadioButton42_CheckedChanged);
-            // 
-            // radioButton43
-            // 
-            this.radioButton43.AutoSize = true;
-            this.radioButton43.Location = new System.Drawing.Point(185, 32);
-            this.radioButton43.Name = "radioButton43";
-            this.radioButton43.Size = new System.Drawing.Size(47, 16);
-            this.radioButton43.TabIndex = 24;
-            this.radioButton43.TabStop = true;
-            this.radioButton43.Text = "25일";
-            this.radioButton43.UseVisualStyleBackColor = true;
-            this.radioButton43.CheckedChanged += new System.EventHandler(this.RadioButton43_CheckedChanged);
-            // 
             // final
             // 
             this.final.Location = new System.Drawing.Point(536, 21);
@@ -632,6 +620,7 @@
             this.final.TabIndex = 31;
             this.final.Text = "결과보기";
             this.final.UseVisualStyleBackColor = true;
+            this.final.Click += new System.EventHandler(this.Final_Click);
             // 
             // Form1
             // 
