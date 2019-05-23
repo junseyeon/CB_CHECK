@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otaku", "otaku\otaku.csproj", "{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93829CE-0EAA-4BEE-8BCD-2AE84854E5D7}
+	EndGlobalSection
+EndGlobal

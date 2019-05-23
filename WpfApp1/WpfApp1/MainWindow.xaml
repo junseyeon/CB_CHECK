@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="3-5 정보" Height="233.193" Width="362.605" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="대형 사고" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.097,2.695" Margin="10,10,0,0" FontSize="70" FontFamily="Yj SOSEL SemiBold"/>
+        <Button Content="선생님 허허허" HorizontalAlignment="Left" VerticalAlignment="Top" Width="317" Margin="13,122,0,0" RenderTransformOrigin="0.5,0.5" Height="59" Click="Button_Click" FontFamily="MDGaesung" FontSize="36" FontWeight="Bold">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.17"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>
