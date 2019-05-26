@@ -27,8 +27,8 @@ namespace otaku
 
         private void Final_Click(object sender, EventArgs e)
         {
-            if (this.radioButton1.Checked)
-                mbb = MessageBoxButtons.OK;
+            
+
         }
     }
 }

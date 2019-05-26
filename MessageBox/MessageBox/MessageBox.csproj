@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34B936CE-8F28-4640-A8BC-B5CEB8DC2F66}</ProjectGuid>
+    <ProjectGuid>{0D78DCBE-D4EF-48BD-961E-0916FF2F068D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>otaku</RootNamespace>
-    <AssemblyName>otaku</AssemblyName>
+    <RootNamespace>MessageBox</RootNamespace>
+    <AssemblyName>MessageBox</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
